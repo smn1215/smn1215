@@ -1,5 +1,5 @@
 # 💫 About Me:
- 3rd year Computer Science student at SRMIST with an enthusiasm for tech and creative coding.<br><br> Building projects with the MERN stack and always on the lookout for new ways to apply my skills.<br><br>Exploring data analysis to uncover stories and insights behind the numbers.<br><br>Enjoy tackling real-life challenges with practical solutions and learning from hands-on experience.<br><br>Always open to connecting, collaborating, and growing with others in the tech community.<br><br>
+➢ 3rd year Computer Science student at SRMIST with an enthusiasm for tech and creative coding.<br><br>➢ Building projects with the MERN stack and always on the lookout for new ways to apply my skills.<br><br>➢ Exploring data analysis to uncover stories and insights behind the numbers.<br><br>➢ Enjoy tackling real-life challenges with practical solutions and learning from hands-on experience.<br><br>➢ Always open to connecting, collaborating, and growing with others in the tech community.<br><br>
 
 
 ## 🌐 Socials:
